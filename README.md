@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React | Firebase | Finance Background</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/2490ca08709017a34f0a5db3f3f8c6f3.gif" width="360" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
 </p>
 
 <p align="center">
@@ -15,8 +15,9 @@
 
 - 🎓 MBA (Accounts & Finance)
 - 👨‍💻 Frontend Developer (React + Firebase)
-- 📊 Passion for dashboards, charts & finance-related apps
-- 🌱 Currently learning Backend + Full-Stack Development
+- 💼 Working professional in **Accounts**
+- 🌱 Transitioning into **Frontend Development**
+- ⚛️ Focused on **React, JavaScript, Firebase**
 - 📍 Aiming for remote & abroad opportunities
 
 ---
@@ -39,22 +40,38 @@
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Expense Tracker App** | Track income, expense, account balances, charts | React, Firebase, Google Charts |
-| **E-Commerce Store** | Category filter, add to cart, dynamic products | React, Express, MongoDB |
-| **Dashboard & Admin UI** | Analytics, graphs, user stats | React, MUI, Firebase |
-| **Auth System** | Phone & Google login | Firebase Auth |
+### 🛒 E-Commerce Store  
+Category based filtering • Add to cart • Responsive UI  
+**Tech:** React, Express, MongoDB  
+🔗 [Live Demo](#) | 💻 [Source Code](https://github.com/riz-33/React-E-Commerce)
 
-🔗 *Pins coming soon…*
+---
+
+### 📊 Expense Tracker App  
+Track income/expense • Account balance sync • Charts Dashboard  
+**Tech:** React, Firebase, Google Charts  
+🔗 [Live Demo](https://rizwan-expense-tracker.netlify.app/) | 💻 [Source Code](https://github.com/riz-33/Expense-Tracker)
+
+---
+
+### 💬 Real-Time Chat Application  
+Send & receive messages • User Auth • Profile System  
+**Tech:** React, Firebase, MUI  
+🔗 [Live Demo](https://rizwan-chat-app.netlify.app/) | 💻 [Source Code](https://github.com/riz-33/React-Chat-App)
+
+---
+
+### 📝 ToDo App  
+CRUD tasks • Google Login • Firestore Storage  
+**Tech:** React, Firebase Auth  
+🔗 [Live Demo](https://rizwan-todo-app.netlify.app/) | 💻 [Source Code](https://github.com/riz-33/ToDo-App)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riz-33&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riz-33&layout=compact" height="150"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=riz-33&cc=000&tc=fff&ic=fff&bc=000" height="150"/>
 </p>
 
 ---
@@ -63,6 +80,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-rizwan-quettawala-1a462b18b/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/></a>
+  <a href="https://www.facebook.com/muhammad.rizwan993"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35"/></a>
+  <a href="https://www.instagram.com/rizwan.herre"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/></a>
   <a href="mailto:rizwan.quettawala@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35"/></a>
   <a href="https://github.com/riz-33"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="35"/></a>
 </p>
