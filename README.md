@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Muhammad Rizwan</h1>
-<h3 align="center">Frontend Developer | Accounts & Finance Background 🇵🇰</h3>
+<h3 align="center">Frontend Developer | React • Firebase • Dashboards | Accounts & Finance Background</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" width="360" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/5e5c151458b90f1eaec27b56efb1ad1b.gif" width="360" />
 </p>
 
 <p align="center">
