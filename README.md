@@ -40,10 +40,10 @@
 
 ## 📌 Featured Projects
 
-### 🛒 E-Commerce Store  
-Category based filtering • Add to cart • Responsive UI  
-**Tech:** React, Express, MongoDB  
-🔗 [Live Demo](#) | 💻 [Source Code](https://github.com/riz-33/React-E-Commerce)
+### 💰 FinTrack - Personal Finance & Expense Management  
+Real-world accounting logic • Dashboard | Budgeting reports • Multi-Currency  
+**Tech:** React, Express, JWT, MongoDB  
+🔗 [Live Demo](https://fintrack-frontend-nine.vercel.app/) | 💻 [Source Code](https://github.com/riz-33/FinTrack_Frontend)
 
 ---
 
