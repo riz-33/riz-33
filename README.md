@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Muhammad Rizwan</h1>
-<h3 align="center">Frontend Developer | React | Firebase | Finance Background</h3>
+<h3 align="center">Full-Stack Developer (MERN) | React • Node.js • MongoDB | Finance & SaaS Applications</h3>
 
-<p align="center">
+<p align="center">  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
 </p>
 
@@ -13,13 +13,12 @@
 
 ## 🚀 About Me
 
-- 🎓 MBA (Accounts & Finance)
-- 👨‍💻 Frontend Developer (React + Firebase)
-- 💼 Working professional in **Accounts**
-- 🌱 Transitioning into **Frontend Development**
-- ⚛️ Focused on **React, JavaScript, Firebase**
-- 📍 Aiming for remote & abroad opportunities
-
+- 💻 Full-Stack Developer building scalable, production-ready web applications  
+- 💰 Developed a Personal Finance & Expense Management SaaS with real-world accounting logic  
+- 🧠 5+ years of professional experience in Finance & Operations  
+- 🔐 Experience with authentication, REST APIs, dashboards & role-based systems  
+- 🌍 Open to remote & international opportunities
+ 
 ---
 
 ## 🛠 Tech Stack
@@ -27,13 +26,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
 </p>
 
 ---
@@ -41,8 +41,8 @@
 ## 📌 Featured Projects
 
 ### 💰 FinTrack - Personal Finance & Expense Management  
-Real-world accounting logic • Dashboard | Budgeting reports • Multi-Currency  
-**Tech:** React, Express, JWT, MongoDB  
+Multi-account wallets • Automated balance handling • Budgeting & reports • Dashboard analytics  
+**Tech:** React, Node.js, Express, JWT, MongoDB    
 🔗 [Live Demo](https://fintrack-frontend-nine.vercel.app/) | 💻 [Source Code](https://github.com/riz-33/FinTrack_Frontend)
 
 ---
@@ -88,5 +88,4 @@ CRUD tasks • Google Login • Firestore Storage
 
 ---
 
-<p align="center"><b>“Learning step by step — building real apps that solve real problems.”</b></p>
-
+<p align="center"><b>Building scalable web applications with clean architecture and real-world business logic.</b></p>
