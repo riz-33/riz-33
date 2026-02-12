@@ -38,11 +38,27 @@
 
 ---
 
+## 🧠 Core Competencies
+
+- REST API Development
+- Authentication & Authorization (JWT)
+- Role-Based Access Control
+- Dashboard & Data Visualization
+- Finance & Accounting Logic Implementation
+- Responsive UI Development
+
+---
+
 ## 📌 Featured Projects
 
 ### 💰 FinTrack - Personal Finance & Expense Management  
 Multi-account wallets • Automated balance handling • Budgeting & reports • Dashboard analytics  
-**Tech:** React, Node.js, Express, JWT, MongoDB    
+**Tech:** 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Full-Stack](https://img.shields.io/badge/Role-Full--Stack-blue)
+
 🔗 [Live Demo](https://fintrack-frontend-nine.vercel.app/) | 💻 [Source Code](https://github.com/riz-33/FinTrack_Frontend)
 
 ---
@@ -89,3 +105,6 @@ CRUD tasks • Google Login • Firestore Storage
 ---
 
 <p align="center"><b>Building scalable web applications with clean architecture and real-world business logic.</b></p>
+
+<p align="center">📩 Open to Full-Stack (MERN) or Frontend opportunities.</p>
+<p align="center"> Available for remote or international roles.</p>
